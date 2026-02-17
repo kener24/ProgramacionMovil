@@ -1,9 +1,9 @@
-package com.example.presentacion.DoWhile
+package com.example.presentacion.While
 
 fun main() {
 
-    val menu = Menu()
+    val login = Validador()
 
-    menu.mostrarMenu()
+    login.iniciarSesion()
 
 }
